@@ -5,3 +5,6 @@ Wouldn’t it be easier if someone tells you a good movie related to or based on
 
 Concepts to know about:<br>
 Word Embeddings, Word2Vec...
+
+
+![image](https://user-images.githubusercontent.com/51115928/123794328-5721ea80-d900-11eb-9512-0dccc34e9371.png)
