@@ -3,7 +3,7 @@ Imagine In your vacation when you were getting bored and you thought you should 
 
 Wouldn’t it be easier if someone tells you a good movie related to or based on movies which you have watched before or liked. Guess what we have made your dream come true
 
-Concepts to know about:<br>
+## Concepts to know about:<br>
 Word Embeddings, Word2Vec...
 
 
